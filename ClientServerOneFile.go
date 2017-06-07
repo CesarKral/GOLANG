@@ -1,4 +1,3 @@
-//Dave Cheney of go forum did helps me with this example
 package main
 
 import (
